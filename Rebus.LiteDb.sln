@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rebus.LiteDb", "Rebus.LiteDb\Rebus.LiteDb.csproj", "{C61AB4A7-B3D6-44B3-AD51-D0E07E611623}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rebus.LiteDb.UnitTests", "Rebus.LiteDb.UnitTests\Rebus.LiteDb.UnitTests.csproj", "{0FAED2D0-6302-4D53-8202-EA2C704A821B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C61AB4A7-B3D6-44B3-AD51-D0E07E611623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C61AB4A7-B3D6-44B3-AD51-D0E07E611623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C61AB4A7-B3D6-44B3-AD51-D0E07E611623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C61AB4A7-B3D6-44B3-AD51-D0E07E611623}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FAED2D0-6302-4D53-8202-EA2C704A821B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FAED2D0-6302-4D53-8202-EA2C704A821B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FAED2D0-6302-4D53-8202-EA2C704A821B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FAED2D0-6302-4D53-8202-EA2C704A821B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
