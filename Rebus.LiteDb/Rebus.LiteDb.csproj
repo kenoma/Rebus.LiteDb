@@ -54,6 +54,7 @@
     <Compile Include="LiteDbSagaStorage.cs" />
     <Compile Include="LiteDbSagaStorageExtensions.cs" />
     <Compile Include="LiteDbSubscriptionStorage.cs" />
+    <Compile Include="LiteDbSubscriptionStorageExtension.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
